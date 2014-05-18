@@ -57,3 +57,16 @@
  + [hawtdispatch](https://github.com/fusesource/hawtdispatch) - The libdispatch style API for Java and Scala
  + [async-http-client](https://github.com/ning/async-http-client) - Asynchronous Http Client for Java
  + [hector](https://github.com/hector-client/hector) - a high level client for cassandra
+
+ + [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+ + [robotium](https://github.com/RobotiumTech/robotium) - Like Selenium, but for Android
+ + [signpost](https://github.com/mttkay/signpost) - A light-weight client-side OAuth library for Java
+ + [droid-fu](https://github.com/mttkay/droid-fu) - A utility library for your daily Android needs
+ + [jmxutils](https://github.com/martint/jmxutils) - Exporting JMX mbeans made easy
+ + [campyre](https://github.com/konklone/campyre) - MORE OR LESS RETIRED: A Campfire client for Android.
+ + [maven-trap](https://github.com/mrdon/maven-trap) - Set of executable interceptors to add features to Maven including output colorization, always offline, and a YAML POM.
+ + [cuke4duke](https://github.com/cucumber/cuke4duke) - Cucumber support for the JVM: Java, Scala, Groovy, Clojure, Ioke, Javascript, Spring, Guice, PicoContainer, WebDriver, Ant and Maven
+ + [atunit](https://github.com/gudmundur/atunit) - AtUnit fork for Mavenized builds
+ + [git-teamcity](https://github.com/jlewallen/git-teamcity) - A Git VCS Plugin for TeamCity
+ + [campfireclient](https://github.com/alandipert/campfireclient) - Java API and command-line client for Campfire, the 37Signals chat application.
+ + [adbcj](https://github.com/mheath/adbcj) - Asynchronous Database Connectivity in Java
