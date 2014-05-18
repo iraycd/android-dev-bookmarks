@@ -28,3 +28,32 @@
  + [smoothie](https://github.com/lucasr/smoothie) - Easy async loading for Android's ListView/GridView
  + [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
  + [android-api8](https://github.com/loganj/android-api8) - Square for Android API
+ + [android-api](https://github.com/charlieCollins/android-api) -Square for Android API + [android-gridlayout](https://github.com/dlew/android-gridlayout) - A backwards compatible implementation of GridLayout for Android
+ + [droid-comic-viewer](https://github.com/robotmedia/droid-comic-viewer) - A comic and manga reader for Android
+ + [sock-benchmarking](https://github.com/mrjoes/sock-benchmarking) - socket.io and sockjs benchmarking toolkit
+ + [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!
+ + [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
+ + [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
+ + [Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.
+ + [threeten](https://github.com/ThreeTen/threeten) - This project was the home of code used to develop a modern date and time library for JDK8. Development has moved to OpenJDK and a separate backport project, threetenbp.
+ + [jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is an innovative solution for a better integration of Java applications with popular databases like Oracle, Microsoft SQL Server, IBM DB2, or SAP Sybase. When using jOOQ, our customers benefit from a significant added value and ROI as their software developers can express database queries in a much simpler and faster way. From our experience, this leads to a 10% - 20% decrease of programming effort, which again leads to higher quality and to a lower error rate in program code, and thus in the entire application.
+ + [stream-lib](https://github.com/addthis/stream-lib) - Stream summarizer and cardinality estimator.
+ + [atunit](https://github.com/loganj/atunit) - annotate your JUnit tests for mocks and dependency injection
+ + [farebot](https://github.com/codebutler/farebot) - Read data from public transit cards using your NFC Android phone!
+ + [campyre](https://github.com/loganj/campyre) - A Campfire client for Android.
+ + [DirectMemory](https://github.com/raffaeleguidi/DirectMemory) - DirectMemory is a cache implementation featuring off-heap memory storage (a-la BigMemory) to enable caching of large (or large numbers of) objects without degrading jvm performance. ATTENTION PLEASE: DIRECTMEMORY IS MOVING TO APACHE - check incubation status here:
+ + [guavafan](https://github.com/loganj/guavafan) - a bag of tricks wrapped around Guava's bag of tricks. not recommended.
+ + [johm](https://github.com/gsharma/johm) - No description
+ + [retrofit](https://github.com/square/retrofit) - Type-safe REST client for Android and Java by Square, Inc.
+ + [robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
+ + [android_packages_apps_Contacts](https://github.com/loganj/android_packages_apps_Contacts) - Android Contacts application
+ + [j4-minimal](https://github.com/sunnygleason/j4-minimal) - Minimal web application example using Embedded Jetty, Jersey, Guice, and Jackson
+ + [android_packages_apps_Contacts](https://github.com/CyanogenMod/android_packages_apps_Contacts) - Android Contacts application
+ + [foursquared](https://github.com/loganj/foursquared) - clone of the Android Foursquare app; adding a sync adapter
+ + [flume](https://github.com/cloudera/flume) - It uses a simple extensible data model that allows for online analytic applications.
+ + [netty-tools](https://github.com/cgbystrom/netty-tools) - A collection of tools useful when working with JBoss Netty.
+ + [mustache.java](https://github.com/spullara/mustache.java) - Implementation of mustache.js for Java
+ + [Deacon](https://github.com/davidrea/Deacon) - (an)Droid + Beacon - A Push Notification Library for Android
+ + [hawtdispatch](https://github.com/fusesource/hawtdispatch) - The libdispatch style API for Java and Scala
+ + [async-http-client](https://github.com/ning/async-http-client) - Asynchronous Http Client for Java
+ + [hector](https://github.com/hector-client/hector) - a high level client for cassandra
